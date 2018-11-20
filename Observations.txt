@@ -1,0 +1,7 @@
+1. It was strange to find certain values of years in the format other than(YYYY), 
+like some tv shows or a movie 1000 years in the making!
+2. The distribution of ratings is far from Gaussian with many values on the higher side as is evident
+ by the median(3.23). 
+This would have made the problem interesting if the 20/20/20 split would have been done on the ratings rather than the movies.
+3. Applying various classification methods did not improve much of the accuracy.
+4. Tinkering with the train test split gave the best results at the 70-30 mark
